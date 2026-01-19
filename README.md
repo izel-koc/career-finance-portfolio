@@ -28,7 +28,7 @@ Academic training in finance is complemented by applied, job-oriented analytical
 - 02_sql/
 - 03_r/
 - 04_treasury_projects/
-data/
+- data/
 - README.md
 
 
