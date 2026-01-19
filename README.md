@@ -35,8 +35,7 @@ README.md
 
 
 
-
-## Purpose of This Portfolio
+Purpose of This Portfolio
 The primary objective of this repository is to demonstrate job-relevant technical and analytical skills aligned with real-world treasury and finance job requirements.
 
 Each project is designed to reflect common expectations seen in Treasury Analyst and finance-related job postings, with a focus on clarity, structure, and practical relevance rather than purely academic exercises.
