@@ -24,7 +24,7 @@ Academic training in finance is complemented by applied, job-oriented analytical
 - GitHub for version control and portfolio presentation
 
 ## Repository Structure
-``` 01_python/
+01_python/
 02_sql/
 03_r/
 04_treasury_projects/
