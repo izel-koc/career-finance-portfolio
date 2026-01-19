@@ -32,6 +32,7 @@ data/
 README.md
 
 
+
 ## Purpose of This Portfolio
 The primary objective of this repository is to demonstrate job-relevant technical and analytical skills aligned with real-world treasury and finance job requirements.
 
